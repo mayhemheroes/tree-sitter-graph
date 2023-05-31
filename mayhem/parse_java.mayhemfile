@@ -1,0 +1,6 @@
+project: tree-sitter-graph
+target: parse-java
+cmds:
+    - cmd: /parse
+testsuite:
+    - file://mayhem/java

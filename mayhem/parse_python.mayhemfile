@@ -1,0 +1,6 @@
+project: tree-sitter-graph
+target: parse-python
+cmds:
+    - cmd: /parse
+testsuite:
+    - file://mayhem/python
