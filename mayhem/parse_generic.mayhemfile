@@ -1,0 +1,4 @@
+project: tree-sitter-graph
+target: parse-generic
+cmds:
+    - cmd: /parse
